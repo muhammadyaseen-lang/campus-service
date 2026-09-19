@@ -1,0 +1,16 @@
+# Campus Service - DevOps Lab
+
+def student_information():
+    name = input("Enter student name: ")
+    department = input("Enter department: ")
+    semester = input("Enter semester: ")
+
+    print("\n--- Student Information ---")
+    print("Name:", name)
+    print("Department:", department)
+    print("Semester:", semester)
+
+
+if __name__ == "__main__":
+    print("Welcome to Campus Service")
+    student_information()

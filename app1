@@ -13,4 +13,4 @@ def student_information():
 
 if __name__ == "__main__":
     print("Welcome to Campus Service")
-    student_information()
+    student_information()yas

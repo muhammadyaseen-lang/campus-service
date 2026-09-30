@@ -1,2 +1,7 @@
-print("Hello from Campus Service!")
-print("Welcome to DevOps Principles and Practices")
+total = 0
+num1 = int(input("Enter first number: "))
+num2 = int(input("Enter second number: "))
+
+result = num1 + num2
+
+print("The sum is:", result)
